@@ -3,4 +3,5 @@ pink lady
 golden delicious
 braeburn
 fuji
+honeycrisp
 gala
